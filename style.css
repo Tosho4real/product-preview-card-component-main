@@ -92,8 +92,7 @@ body {
   position: relative;
 }
 .main button:hover{
-    background-color: hsl(0, 0%, 100%);
-    color: hsl(158, 36%, 37%);
+   cursor: pointer;
 }
 .cart {
  margin-right: 10px;
@@ -124,7 +123,5 @@ body {
   .main h1{
     margin-top: 2rem;
   }
-  .main button{
-    height: ;
-  }
+ 
 }
