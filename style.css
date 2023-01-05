@@ -91,6 +91,10 @@ body {
   font-weight: 700;
   position: relative;
 }
+.main button:hover{
+    background-color: hsl(0, 0%, 100%);
+    color: hsl(158, 36%, 37%);
+}
 .cart {
  margin-right: 10px;
 }
