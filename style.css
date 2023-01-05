@@ -91,37 +91,34 @@ body {
   font-weight: 700;
   position: relative;
 }
-.main button:hover{
-   cursor: pointer;
+.main button:hover {
+  cursor: pointer;
 }
 .cart {
- margin-right: 10px;
+  margin-right: 10px;
 }
 
 @media screen and (min-width: 459px) {
-    body{
-        height: 100vh;
-    }
+  body {
+    height: 100vh;
+  }
   .content {
     margin-top: 15vh;
     flex-direction: row;
     width: 50%;
     height: 70vh;
-    
   }
   .img {
     height: 100%;
 
     border-radius: 0.7rem 0 0 0.7rem;
-    
   }
   .main {
     height: 100%;
     margin: 1rem;
     padding-left: 20px;
   }
-  .main h1{
+  .main h1 {
     margin-top: 2rem;
   }
- 
 }
